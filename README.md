@@ -1,5 +1,5 @@
 # BP_signal-processing
-download_data.m: a script to download the signals that meet our requirements
+download_data.m: a script to download the signals that meet our requirements\\
 
 BP_annotate.m: annotate PPG’s characteristic points (foot, systolic peak, dicrotic notch, and diastolic peak)
 check_detector.m: plot out PPG and ECG signals every 5 minutes
